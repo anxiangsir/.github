@@ -26,7 +26,7 @@ We are a group of researchers, with a focus on large multimodal models (LMMs). W
 </div>
 
 ## Introduction
-**LLaVA-OneVision1.5** introduces a novel family of **fully open-source** Large Multimodal Models (LMMs) that achieves **state-of-the-art performance**  with substantially **lower cost** through training on **native resolution** images.
+**LLaVA-OneVision-1.5** introduces a family of fully open-source large multimodal models (LMMs) that operate on **native-resolution images**, achieve **state-of-the-art** performance, and require comparatively **lower training costs**.
 
 - **Superior Performance**
 A family of fully open-source large multimodal models demonstrating 
